@@ -5,6 +5,7 @@ Magic-spot to miejsce, w którym znajdować się będą rzeczy związane z front
 ## ciekawe efekty
 http://tympanus.net/Development/HeaderEffects/
 
+https://codyhouse.co/gem/icons-filling-effect/
 ## ciekawi ludzie
 http://hatalska.com/
 
