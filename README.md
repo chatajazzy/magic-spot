@@ -6,6 +6,19 @@ Magic-spot to miejsce, w którym znajdować się będą rzeczy związane z front
 http://tympanus.net/Development/HeaderEffects/
 
 https://codyhouse.co/gem/icons-filling-effect/
+
+http://tympanus.net/Development/CreativeLinkEffects/
+
+https://codyhouse.co/demo/sliding-panels-template/index.html
+
+http://tympanus.net/Development/LineMenuStyles/
+
+https://codyhouse.co/demo/page-scroll-effects/parallax-hijacking.html
+
+http://tympanus.net/Development/ArticleIntroEffects/index.html
+
+
+
 ## ciekawi ludzie
 http://hatalska.com/
 
