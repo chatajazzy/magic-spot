@@ -159,4 +159,6 @@ http://html5bookmarks.com/
 
 https://uptodate.frontendrescue.org/
 
+http://markdalgleish.com/projects/stellar.js/docs/
+
 
