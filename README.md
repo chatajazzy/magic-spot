@@ -62,6 +62,8 @@ https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 
 http://grafmag.pl/kategoria/materialy/
 
+http://webdesign-master.ru/
+
 http://1stwebdesigner.com/
 
 ##darmowe ikony, mockupy itd.
