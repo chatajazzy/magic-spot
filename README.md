@@ -118,7 +118,10 @@ http://miroslawzelent.pl/informatyka/wyklady-technik-informatyk-do-pobrania/
 
 ### narzędzia 
 http://nerdi.net/
+
 http://mateuszroth.pl/komp/
+
+http://rogerdudler.github.io/git-guide/index.pl.html
 
 ### snippets 
 http://www.cssflow.com/snippets
