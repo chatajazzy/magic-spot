@@ -164,4 +164,11 @@ https://uptodate.frontendrescue.org/
 
 http://markdalgleish.com/projects/stellar.js/docs/
 
+https://github.com/rwaldron/idiomatic.js/#practical
+
+http://www.everytalk.tv/talks/441-JSConf-Everything-is-Permitted-Extending-Built-ins
+
+http://www.php-fig.org/psr/psr-2/
+
+http://danielkummer.github.io/git-flow-cheatsheet/index.pl_PL.html
 
