@@ -1,5 +1,5 @@
 # magic-spot
-Magic-spot to miejsce, w którym znajdować się będą rzeczy związane z front endem. Takie małe repozytorium przechowujące ciekawe rozwiązania, pewne schematy do których będzie możnan szybko sięgnąć.
+Magic-spot to miejsce, w którym znajdować się będą rzeczy związane z front endem. Takie małe repozytorium przechowujące ciekawe rozwiązania, pewne schematy do których będzie można szybko sięgnąć.
 
 # inspiracje
 ## ciekawe efekty
@@ -173,3 +173,5 @@ http://www.php-fig.org/psr/psr-2/
 http://danielkummer.github.io/git-flow-cheatsheet/index.pl_PL.html
 
 http://sharingbuttons.io/
+
+http://entreprogrammers.com/
