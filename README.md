@@ -172,3 +172,4 @@ http://www.php-fig.org/psr/psr-2/
 
 http://danielkummer.github.io/git-flow-cheatsheet/index.pl_PL.html
 
+http://sharingbuttons.io/
